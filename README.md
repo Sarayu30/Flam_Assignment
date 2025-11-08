@@ -136,11 +136,11 @@ The implemented solution demonstrates sophisticated understanding of parametric 
 
 <div style="font-size: 12px;">
 
-1. Virtanen, Pauli, et al. "SciPy 1.0: Fundamental Algorithms for Scientific Computing in Python." *Nature Methods* 17, no. 3 (2020): 261–272.
-
-2. Nocedal, Jorge, and Stephen J. Wright. *Numerical Optimization*. 2nd ed. New York: Springer, 2006.
+1. Nocedal, Jorge, and Stephen J. Wright. Numerical Optimization. 2nd ed. New York: Springer, 2006.
+2.Boyd, Stephen, and Lieven Vandenberghe. Convex Optimization. Cambridge: Cambridge University Press, 2004.
 
 3. McKinney, Wes. "Data Structures for Statistical Computing in Python." In *Proceedings of the 9th Python in Science Conference*, edited by Stéfan van der Walt and Jarrod Millman, 51–56. 2010.
+4. Storn, Rainer, and Kenneth Price. "Differential Evolution – A Simple and Efficient Heuristic for Global Optimization over Continuous Spaces." Journal of Global Optimization 11, no. 4 (1997): 341–359.
 
 </div>
 
@@ -149,7 +149,7 @@ The implemented solution demonstrates sophisticated understanding of parametric 
 Flamsubmision/
 ├── xy_data.csv              # Input data file
 ├── README.md               # This file
-├──Flam_final_submission.ipynb  # Main Jupyter notebook with complete solution
+├── Flam_final_submission.ipynb  # Main Jupyter notebook with complete solution
 └── requirements.txt        # Python dependencies
 ```
 

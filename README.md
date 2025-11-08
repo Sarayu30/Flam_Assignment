@@ -142,11 +142,14 @@ The implemented solution demonstrates sophisticated understanding of parametric 
 
 <div style="font-size: 12px;">
 
-1. Nocedal, Jorge, and Stephen J. Wright. Numerical Optimization. 2nd ed. New York: Springer, 2006.
-2.Boyd, Stephen, and Lieven Vandenberghe. Convex Optimization. Cambridge: Cambridge University Press, 2004.
+1.Nocedal, Jorge, and Stephen J. Wright. 2006. *Numerical Optimization*. 2nd ed. New York: Springer.
 
-3. McKinney, Wes. "Data Structures for Statistical Computing in Python." In *Proceedings of the 9th Python in Science Conference*, edited by Stéfan van der Walt and Jarrod Millman, 51–56. 2010.
-4. Storn, Rainer, and Kenneth Price. "Differential Evolution – A Simple and Efficient Heuristic for Global Optimization over Continuous Spaces." Journal of Global Optimization 11, no. 4 (1997): 341–359.
+2.Boyd, Stephen, and Lieven Vandenberghe. 2004. *Convex Optimization*. Cambridge: Cambridge University Press.
+
+3.McKinney, Wes. 2010. “Data Structures for Statistical Computing in Python.” In *Proceedings of the 9th Python in Science Conference*, edited by Stéfan van der Walt and Jarrod Millman, 51–56.
+
+4.Storn, Rainer, and Kenneth Price. 1997. “Differential Evolution – A Simple and Efficient Heuristic for Global Optimization over Continuous Spaces.” *Journal of Global Optimization* 11 (4): 341–359.
+
 
 </div>
 

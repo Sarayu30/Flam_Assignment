@@ -105,7 +105,8 @@ Ultra-fine tuning with multiple gradient-based methods (L-BFGS-B, TNC, SLSQP).
 
 <p align="center">
 
-### 🚀 **FINAL EQUATION**
+###  ![Final Equation](https://img.shields.io/badge/FINAL%20EQUATION-SUBMISSION%20READY-brightgreen)
+
 
 </p>
 

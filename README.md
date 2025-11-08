@@ -2,7 +2,7 @@
 
 ## Executive Summary
 
-This project successfully determines the unknown parameters (θ, M, X) for a given parametric curve using advanced optimization techniques. The solution achieves exceptional fitting accuracy with an L1 distance of 0.485, demonstrating near-perfect curve reconstruction and mathematical rigor.
+This project successfully determines the unknown parameters (θ, M, X) for a given parametric curve using advanced optimization techniques. The solution achieves very good fitting accuracy with an L1 distance of 0.0229, demonstrating near-perfect curve reconstruction and mathematical rigor.
 
 ## Mathematical Formulation
 
@@ -149,7 +149,7 @@ The implemented solution demonstrates sophisticated understanding of parametric 
 Flamsubmision/
 ├── xy_data.csv              # Input data file
 ├── README.md               # This file
-├──   .ipynb
+├──Flam_final_submission.ipynb  # Main Jupyter notebook with complete solution
 └── requirements.txt        # Python dependencies
 ```
 

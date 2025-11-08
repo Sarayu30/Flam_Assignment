@@ -103,7 +103,12 @@ Ultra-fine tuning with multiple gradient-based methods (L-BFGS-B, TNC, SLSQP).
 | Max Point Error | 0.044099 | 
 | 95th Percentile Error | 0.038282 |
 
-### Desmos Implementation
+<p align="center">
+
+### 🚀 **FINAL EQUATION**
+
+</p>
+
 
 **Final Equation for Submission:**
 ```

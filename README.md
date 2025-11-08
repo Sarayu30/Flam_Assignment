@@ -154,7 +154,7 @@ The implemented solution demonstrates sophisticated understanding of parametric 
 
 ## Repository Structure
 ```
-Flamsubmision/
+Flam_Assignment/
 ├── xy_data.csv              # Input data file
 ├── README.md               # This file
 ├── Flam_final_submission.ipynb  # Main Jupyter notebook with complete solution
